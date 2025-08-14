@@ -65,4 +65,4 @@ Hopefully, this project helps fill that gap by providing (in future versions):
 
 ## License & Affiliation
 
-This project is **unofficial** and not affiliated with Stanford University. All original content in this repository is released under the MIT license unless otherwise stated. External resources are subject to their respective licenses.
+This project is **unofficial** and not affiliated with Stanford University. All original content in this repository is released under the GNU General Public License v3.0 license unless otherwise stated. External resources are subject to their respective licenses.
