@@ -1,2 +1,2 @@
 # cs-229-exercises
-Additional exercises to Stanford CS229 ML course
+Additional exercises for the Stanford CS229 machine learning course.
